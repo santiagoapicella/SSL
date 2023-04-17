@@ -1,9 +1,9 @@
 #  SSL
 
 ## Datos del alumno
-  - Materia: Sintaxis y Semantica de los Lenguajes
-  - Curso: K2051
-  - Año de cursada: 2023
-  - Legajo: 173.064-2
-  - Apellido: Apicella
-  - Nombre: Santiago
+  - MATERIA: Sintaxis y Semantica de los Lenguajes
+  - CURSO: K2051
+  - AÑO DE CURSADA: 2023
+  - LEGAJO: 173.064-2
+  - APELLIDO: Apicella
+  - NOMBRE: Santiago
